@@ -2,5 +2,7 @@ numpy
 pandas
 scikit-learn
 matplotlib
-TENSORFLOW
 seaborn
+tensorflow
+plotly
+shap
